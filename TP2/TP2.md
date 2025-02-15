@@ -30,7 +30,7 @@ Suivez les guides d'installation officiels pour votre système d'exploitation :
 
 ### Données du TP
 Téléchargez le fichier des films pour le TP :
-[films.json](https://raw.githubusercontent.com/mongodb/docs-assets/primer-dataset/films.json)
+[films.json](https://moodle.univ-spn.fr/pluginfile.php/818630/mod_resource/content/1/films.json)
 
 ### Structure des données du TP
 Le fichier JSON contient une collection de films avec la structure suivante :
